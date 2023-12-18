@@ -3,7 +3,7 @@
 
 - Recherche de ville : Les utilisateurs peuvent entrer le nom d'une ville dans la barre de recherche.
 - Affichage de la carte : La carte est centrée sur les coordonnées de la ville sélectionnée.
-- Marquage des hôpitaux : Les hôpitaux à proximité de la ville sont affichés sur la carte.
+- Marquage des bornes de recharge à proximité de la ville affichés sur la carte.
 
 ## Comment Utiliser
 
