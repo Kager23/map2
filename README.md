@@ -15,7 +15,7 @@
 
 ## Installation
 
-1. Clonez ce dépôt : `git clone https://github.com/votre-utilisateur/recherche-ville-hopitaux.git`
+1. Clonez ce dépôt : `git clone https://github.com/Kager23/map2.git`
 2. Ouvrez le fichier `index.html` dans votre navigateur.
 
 
